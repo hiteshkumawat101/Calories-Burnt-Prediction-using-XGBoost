@@ -8,3 +8,6 @@ Data Visualization
 Calories Burnt by Gender
 Age Distribution
 Feature Correlation Heatmap
+
+
+Data is taken from kaggle Dataset(https://www.kaggle.com/datasets?tags=11105-Education)
